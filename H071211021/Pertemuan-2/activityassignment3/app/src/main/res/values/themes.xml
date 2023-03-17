@@ -1,0 +1,19 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Theme.Activityassignment3" parent="Theme.MaterialComponents.Light.NoActionBar">
+        <!-- Primary brand color. -->
+        <item name="colorPrimary">@color/back</item>
+        <item name="colorPrimaryVariant">@color/font</item>
+        <item name="colorOnPrimary">@color/font</item>
+        <!-- Secondary brand color. -->
+        <item name="colorSecondary">@color/secondary</item>
+        <item name="colorSecondaryVariant">@color/third</item>
+        <item name="colorOnSecondary">@color/black</item>
+        <!-- Status bar color. -->
+        <item name="android:statusBarColor">@color/back</item>
+        <!-- Customize your theme here. -->
+        <item name="android:fontFamily">@font/bebas_neue</item>
+        <item name="android:textSize">25sp</item>
+    </style>
+
+</resources>
