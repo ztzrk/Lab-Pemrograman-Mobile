@@ -1,0 +1,114 @@
+{
+  "dataSoal": [
+    {
+      "soal": "https://img.pokemondb.net/artwork/large/meowscarada.jpg",
+      "pilihan": [
+        "Floragato",
+        "Meowscarada",
+        "Sprigatito",
+        "Arboliva"
+      ],
+      "jawaban": "Meowscarada",
+      "nilai": "10"
+    },
+    {
+      "soal": "https://img.pokemondb.net/artwork/large/roaring-moon.jpg",
+      "pilihan": [
+        "Roaring Moon",
+        "Salamence",
+        "Haxorus",
+        "Hydregion"
+      ],
+      "jawaban": "Roaring Moon",
+      "nilai": "10"
+    },
+    {
+      "soal": "https://img.pokemondb.net/artwork/large/walking-wake.jpg",
+      "pilihan": [
+        "Suicune",
+        "Entei",
+        "Walking Wake",
+        "Raikou"
+      ],
+      "jawaban": "Walking Wake",
+      "nilai": "10"
+    },
+    {
+      "soal": "https://img.pokemondb.net/artwork/large/iron-thorns.jpg",
+      "pilihan": [
+        "Tyranitar",
+        "Larvitar",
+        "Pupitar",
+        "Iron Thorns"
+      ],
+      "jawaban": "Iron Thorns",
+      "nilai": "10"
+    },
+    {
+      "soal": "https://img.pokemondb.net/artwork/large/iron-leaves.jpg",
+      "pilihan": [
+        "Virizion",
+        "Terrakion",
+        "Cobalion",
+        "Iron Leaves"
+      ],
+      "jawaban": "Iron Leaves",
+      "nilai": "10"
+    },
+    {
+      "soal": "https://img.pokemondb.net/artwork/large/skeledirge.jpg",
+      "pilihan": [
+        "Skeledirge",
+        "Crocalor",
+        "Fuecoco",
+        "Krookodile"
+      ],
+      "jawaban": "Skeledirge",
+      "nilai": "10"
+    },
+    {
+      "soal": "https://img.pokemondb.net/artwork/large/dracozolt.jpg",
+      "pilihan": [
+        "Arctozolt",
+        "Dracozolt",
+        "Arctovish",
+        "Dracovish"
+      ],
+      "jawaban": "Dracozolt",
+      "nilai": "10"
+    },
+    {
+      "soal": "https://img.pokemondb.net/artwork/large/grimmsnarl.jpg",
+      "pilihan": [
+        "Zarude",
+        "Impidimp",
+        "Morgrem",
+        "Grimmsnarl"
+      ],
+      "jawaban": "Grimmsnarl",
+      "nilai": "10"
+    },
+    {
+      "soal": "https://img.pokemondb.net/artwork/large/corviknight.jpg",
+      "pilihan": [
+        "Corvisquire",
+        "Corviknight",
+        "Rookidee",
+        "Swellow"
+      ],
+      "jawaban": "Corviknight",
+      "nilai": "10"
+    },
+    {
+      "soal": "https://img.pokemondb.net/artwork/large/tapu-koko.jpg",
+      "pilihan": [
+        "Tapu Lele",
+        "Tapu Koko",
+        "Tapu Bulu",
+        "Tapu Fini"
+      ],
+      "jawaban": "Tapu Koko",
+      "nilai": "10"
+    }
+  ]
+}
